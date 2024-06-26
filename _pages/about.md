@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ACondaway's academic website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
