@@ -21,12 +21,12 @@ repository               : "ACondaway.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "potrait.jpg"
   name             : "Congsheng Xu(ACondaway)"
   pronouns         : "he/his"  
   bio              : "ACondaway you know!"
   location         : "Jinshan, Shanghai, China"
-  employer         : "Shanghai Jiao Tong University University"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "ACondaway@sjtu.edu.cn" 
 
@@ -201,7 +201,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -210,7 +210,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
