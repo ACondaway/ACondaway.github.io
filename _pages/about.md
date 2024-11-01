@@ -22,13 +22,22 @@ The CV is updated at 2024/7/1
 
 # Publications
 
+You can overview my publications on [my google scholar](https://scholar.google.com/citations?user=PYFaxeoAAAAJ&hl=en) 
+
 ## ECCV'24
-
+In ECCV2024, One paper has been accepted on the benchmark of Human-Object Interaction.
+### HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects
+[Arxiv](https://arxiv.org/abs/2407.12371), [Project page](https://lvxintao.github.io/himo/)
 ## ECCV Hands'24 Workshop
-
+In ECCV 2024's Hands Workshop, we propose a new method based on HOLDNet, and win the second place prize in ARCTIC Track.
+[Website](https://hands-workshop.org/), [Paper](https://hands-workshop.org/files/2024/ACE.pdf)
 ## CVPR'24
-
-## CVPR EgoExo4D Workshop
+In CVPR2024, One paper has been accepted on the dataset of inter-human motion.
+### Inter-X: Towards Versatile Human-Human Interaction Analysis
+[Arxiv](https://arxiv.org/abs/2312.16051), [Project page](https://liangxuy.github.io/inter-x/)
+## CVPR EgoVis Workshop
+In CVPR EgoVis Worshop, I won the third place in the teaser challenge task: Ego-pose Body.
+[Website](https://egovis.github.io/cvpr24/)
 
 
 
