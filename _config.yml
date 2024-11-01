@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Congsheng Xu(ACondaway)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "ACondaway you know!"
   location         : "Jinshan, Shanghai, China"
   employer         : "Shanghai Jiao Tong University University"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PYFaxeoAAAAJ"
   impactstory      : # URL
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0007-2619-8827"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
