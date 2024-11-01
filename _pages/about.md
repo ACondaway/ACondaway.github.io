@@ -18,8 +18,17 @@ In [AIGCClass](https://sjtu-aigc.github.io/), I have worked with other fellows o
 This autumn, I will also be invited as an interviewer for the recruitment of AIGCClass2024 Members. I am looking forward to having deep connection with fresh-hand for AIGC!
 
 You can find my CV here: [Congsheng Xu's latest CV(CN)](../assets/育才计划简历.pdf).
+The CV is updated at 2024/7/1
 
+# Publications
 
+## ECCV'24
+
+## ECCV Hands'24 Workshop
+
+## CVPR'24
+
+## CVPR EgoExo4D Workshop
 
 
 
