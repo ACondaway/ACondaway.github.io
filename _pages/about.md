@@ -30,6 +30,7 @@ In ECCV2024, One paper has been accepted on the benchmark of Human-Object Intera
 [Arxiv](https://arxiv.org/abs/2407.12371), [Project page](https://lvxintao.github.io/himo/)
 ## ECCV Hands'24 Workshop
 In ECCV 2024's Hands Workshop, we propose a new method based on HOLDNet, and win the second place prize in ARCTIC Track.
+
 [Website](https://hands-workshop.org/), [Paper](https://hands-workshop.org/files/2024/ACE.pdf)
 ## CVPR'24
 In CVPR2024, One paper has been accepted on the dataset of inter-human motion.
@@ -37,6 +38,7 @@ In CVPR2024, One paper has been accepted on the dataset of inter-human motion.
 [Arxiv](https://arxiv.org/abs/2312.16051), [Project page](https://liangxuy.github.io/inter-x/)
 ## CVPR EgoVis Workshop
 In CVPR EgoVis Worshop, I won the third place in the teaser challenge task: Ego-pose Body.
+
 [Website](https://egovis.github.io/cvpr24/)
 
 
