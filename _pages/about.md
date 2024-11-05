@@ -13,7 +13,7 @@ From July, 2023 till now, I have worked with [Liang Xu](https://liangxuy.github.
 
 In December, 2023, I was very excited to be accepted into AIGCClass@SIC and under the supervision of [Yichao Yan](https://daodaofr.github.io/), the AI Institute of Shanghai Jiao Tong University and [Weiming Zhao](https://zwm0426.github.io), the Student Innovation Center of Shanghai Jiao Tong University. 
 
-In [AIGCClass](https://sjtu-aigc.github.io/), I have worked with other fellows on some fashion topics, our project: CyberLife, have been qualified as the golden prize in China International College Students' Innovation Competition 2024 (CICSIC), Shanghai (which is ranked 2nd in all awesome projects). And now our project have been incubated by [miricleplus (YC China)](https://www.miracleplus.com/), as [emagen](emagen.cn).
+In [AIGCClass](https://sjtu-aigc.github.io/), I have worked with other fellows on some fashion topics, our project: CyberLife, have been qualified as the golden prize in China International College Students' Innovation Competition 2024 (CICSIC), Shanghai (which is ranked 2nd in all awesome projects). And now our project have been incubated by [miricleplus (YC China)](https://www.miracleplus.com/), as [emagen](https://emagen.cn).
 
 This autumn, I will also be invited as an interviewer for the recruitment of AIGCClass2024 Members. I am looking forward to having deep connection with fresh-hand for AIGC!
 
