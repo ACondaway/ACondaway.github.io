@@ -11,6 +11,8 @@ I am a third-year undergraduate student from [School of Electronic Information a
 
 From July, 2023 till now, I have worked with [Liang Xu](https://liangxuy.github.io/) on topics of human motion. 
 
+From July, 2024 till now, I have sparked my interest in Embodied AI and Reinforcement Learning-/Transfer Learning-based hand object interaction and Human Interact with Virtual Scene(Interactable Scene Generation & VSI). And I am looking for cooperation academically and commercially.
+
 In December, 2023, I was very excited to be accepted into AIGCClass@SIC and under the supervision of [Yichao Yan](https://daodaofr.github.io/), the AI Institute of Shanghai Jiao Tong University and [Weiming Zhao](https://zwm0426.github.io), the Student Innovation Center of Shanghai Jiao Tong University. 
 
 In [AIGCClass](https://sjtu-aigc.github.io/), I have worked with other fellows on some fashion topics, our project: CyberLife, have been qualified as the golden prize in China International College Students' Innovation Competition 2024 (CICSIC), Shanghai (which is ranked 2nd in all awesome projects). And now our project have been incubated by [miricleplus (YC China)](https://www.miracleplus.com/), as [Emagen.inc](https://emagen.cn), and I will show great respect to the responsible of the project, now the CEO of the Emagen.inc, Yimao Zhou.
