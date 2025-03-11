@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student from [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/),[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I major in Information Engineering. My research interest includes computer vision, computer graphic and machine learning. In detail, I am specially interested in Artificial Intelligence Genrated Content(AIGC) and Humon Motion Generation(MoGen). Recently, I am working on Hand-Object Interaction Reconstruction and a significant dataset on sign language.
+I am a third-year undergraduate student from [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/),[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I major in Information Engineering. My research interest includes Embodied AI, computer vision and computer graphic. In detail, I am specially interested in Artificial Intelligence Genrated Content(AIGC) and RL policy learning for Embodied AI. Recently, I am working on VLA-based Embodied AI policy rollout.
 
-From July, 2023 till now, I have worked with [Liang Xu](https://liangxuy.github.io/) on topics of human motion. 
+From Feb, 2025, I honorably join the [ScaleLab](https://scalelab-sjtu.github.io) under the supervision of [Prof. Dr. Yao Mu](https://yaomarkmu.github.io) , the tenure track associate professor of AI Institute of Shanghai Jiao Tong University. 
 
 From July, 2024 till now, I have sparked my interest in Embodied AI and Reinforcement Learning-/Transfer Learning-based hand object interaction and Human Interact with Virtual Scene(Interactable Scene Generation & VSI). And I am looking for cooperation academically and commercially.
+
+From July, 2023 till December, 2024, I have worked with [Liang Xu](https://liangxuy.github.io/) on topics of human motion.
 
 In December, 2023, I was very excited to be accepted into AIGCClass@SIC and under the supervision of [Yichao Yan](https://daodaofr.github.io/), the AI Institute of Shanghai Jiao Tong University and [Weiming Zhao](https://zwm0426.github.io), the Student Innovation Center of Shanghai Jiao Tong University. 
 
@@ -19,8 +21,8 @@ In [AIGCClass](https://sjtu-aigc.github.io/), I have worked with other fellows o
 
 This autumn, I will also be invited as an interviewer for the recruitment of AIGCClass2024 Members. I am looking forward to having deep connection with fresh-hand for AIGC!
 
-You can find my CV here: [Congsheng Xu's latest CV(CN)](../assets/育才计划简历.pdf).
-The CV is updated at 2024/7/1
+You can find my CV here: [Congsheng Xu's latest CV(en)](../assets/ACondaway_CV_en.pdf).
+The CV is updated at 11/03/2025
 
 # Publications
 
